@@ -1,3 +1,7 @@
+/**
+ * It returns a div with a h1 tag inside of it
+ * @returns A function that returns a div with a h1 tag.
+ */
 import React from "react";
 
 export const AllExamCom =()=>{
