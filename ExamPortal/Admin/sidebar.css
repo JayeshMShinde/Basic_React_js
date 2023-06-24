@@ -1,0 +1,12 @@
+.Clicked{
+    background-color:yellow;
+    font-size: 12px;
+  }
+  
+.Clicked:hover{
+    background-color:orange;
+}
+  
+.Clicked:focus{
+    background-color:cornflowerblue;
+}
